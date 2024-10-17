@@ -1,0 +1,20 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore dataset files
+cifar-100-python.tar
+cifar-100-python/
+
+# Ignore specific document files(Document in greek)
+Technical Report.pdf
+Work on Image Recognition.docx
